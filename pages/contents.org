@@ -1,1 +1,3 @@
-** 
+** note on [[xv6 notes - 2,3]]
+** note also on [[new page]]
+**
