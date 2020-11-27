@@ -1,2 +1,7 @@
 #+TITLE: Nov 27th, 2020
 
+** TODO accomplish new statement
+:PROPERTIES:
+:todo: 1606447474015
+:END:
+**
