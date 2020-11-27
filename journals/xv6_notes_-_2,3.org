@@ -8,6 +8,10 @@
 ** 3. 用户态和内核态如何转换？
 ** 4. exception，interrupt？
 **
+** LATER 解决
+:PROPERTIES:
+:later: 1606447881204
+:END:
 **
 **
 **
