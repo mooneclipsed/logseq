@@ -1,4 +1,4 @@
-#+TITLE: Nov 27th, 2020
+#+TITLE: xv6 notes - 2,3
 
 ** TODO  实现我的编译器新的模块
 :PROPERTIES:
