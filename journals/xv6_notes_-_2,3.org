@@ -6,7 +6,7 @@
 :END:
 ** 2. 如何防止栈使用不属于它的栈？
 ** 3. 用户态和内核态如何转换？
-** 4. exception，interrupt
+** 4. exception，interrupt？
 **
 **
 **
