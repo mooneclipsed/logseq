@@ -1,2 +1,1 @@
-** note on [[xv6 notes - 2,3]]
 **
