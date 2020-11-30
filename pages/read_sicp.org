@@ -1,0 +1,5 @@
+
+#+TITLE: read sicp
+
+* [[Nov 27th, 2020]]
+* reading sicp
