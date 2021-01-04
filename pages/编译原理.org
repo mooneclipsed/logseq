@@ -1,4 +1,4 @@
 #+TITLE: 编译原理
 
 ** 自顶向下分析
-** 1、找出first集，follow集-----当存在
+** 1、找出first集，follow集
