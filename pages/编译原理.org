@@ -3,4 +3,4 @@
 ** 自顶向下分析
 ** 1、找出first集，follow集，尤其follow集建议反复查询3遍，确保找完
 ** 2、判断LL1需要用到select集合。不需要全部的，只需要找左部的非终结符相同的select集。例如S->AB|aB。 当右边是aB，select集合=first（右边）排除ε，当右边是AB，select集合=first（右边）-{ε} || follow(S)
-** 3、构建预测分析表，先看first集合，first集合可为
+** 3、构建预测分析表，先看first集合，first集合可为ε再看follow集。
